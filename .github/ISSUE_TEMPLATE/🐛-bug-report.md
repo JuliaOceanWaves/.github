@@ -21,7 +21,7 @@ assignees: ''
 
 **System**
  - OS: [e.g. iOS]
- - Julia version: [e.g. 1.8.1]
+ - Julia version: [e.g. 1.10.10]
  - Package version: [e.g. 0.1.0]
 - Other packages version: [e.g. Unitful.jl 1.12.2,  DifferentialEquations.jl 7.6.0, ...]
 
