@@ -4,14 +4,14 @@ Contributions of any kind are welcome!
 
 ### Types of contributions
 There are many ways to contribute to the code and community:
-  - 🐛 Found a **bug**? ==> Create a bug report in the repo's [issues page](/issues).
-  - ✨ Have an **idea** for a new feature? ==> Suggest it in the repo's [issues page](/issues).
-  - ❓ Have a **question?** ==> Yep, ask in the repo's [issues page](/issues). Anything from basic usage to more advanced questions.
-  - 📜 Help improve the **documentation**. Anything from small typos to new examples. Submit a [pull request](/pulls).
-  - 💬 Help **answer** other's questions in the repo's [issues page](/issues).
-  - 🛠 Contribute **code** through a [pull request](/pulls) to address an open issue. Not sure where to start? ==> Look at [Good first issues](/contribute). 
+  - 🐛 Found a **bug**? ==> Create a bug report in the repo's _**issues page**_.
+  - ✨ Have an **idea** for a new feature? ==> Suggest it in the repo's _**issues page**_.
+  - ❓ Have a **question?** ==> Yep, ask in the repo's _**issues page**_. Anything from basic usage to more advanced questions.
+  - 📜 Help improve the **documentation**. Anything from small typos to new examples. Submit a _**pull request**_.
+  - 💬 Help **answer** other's questions in the repo's _**issues page**_.
+  - 🛠 Contribute **code** through a _**pull request**_ to address an open issue. Not sure where to start? ==> Look at _**good first issues**_. 
   - ❗**Report** violations to the [community standard](CODE_OF_CONDUCT.md) directly to [us via email](mailto:cmichel@sandia.gov?subject=[GitHub]%20Community%20Violation). 
-  - 🚨 Identified a **security** vulnerability? ==> See the [security poilicy](/security). 
+  - 🚨 Identified a **security** vulnerability? ==> See the _**security policy**_. 
   - 👯 Want to **collaborate** on a project? ==> [Contact us](mailto:cmichel@sandia.gov).
 
 ## Community Standards 🌱 💜
@@ -30,11 +30,11 @@ Remember that open source development is a social process and we are in this tog
 [![SciML Code Style](https://img.shields.io/static/v1?label=code%20style&message=SciML&color=9558b2&labelColor=389826)](https://docs.sciml.ai/SciMLStyle)
 [![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-%23FE5196?logo=conventionalcommits&logoColor=white)](https://conventionalcommits.org)
 
-Contribute changes, including code and documentation, through [pull request](/pulls). 
+Contribute changes, including code and documentation, through _**pull request**_. 
 
 **New contributors**:
 While it is important for a project to have well defined practices, don't feel like you need to read/understand all of it right away! 
-At the very minimum, follow the [GitHub Flow](https://docs.github.com/en/get-started/quickstart/github-flow) and start with a draft [pull request](/pulls). We can work from there together! 🤓
+At the very minimum, follow the [GitHub Flow](https://docs.github.com/en/get-started/quickstart/github-flow) and start with a draft _**pull request**_. We can work from there together! 🤓
 
 **Development practices**:  
   - Use the [GitHub Flow](https://docs.github.com/en/get-started/quickstart/github-flow). 
@@ -42,4 +42,13 @@ At the very minimum, follow the [GitHub Flow](https://docs.github.com/en/get-sta
   - Follow the [SciML style guide](https://docs.sciml.ai/SciMLStyle) 😎.
   - Use the [Conventional Commits](https://www.conventionalcommits.org/) to title pull requests. 
   - Familiarize yourself with the source code, documentation, testing, and CI in the repo, and update the documentation and testing when appropriate. 
-  - Know that your submissions are understood to be under the same [MIT License](LICENSE.md) that covers the project. Feel free to [contact us](mailto:cmichel@sandia.gov) if that's a concern. 
+  - Know that your submissions are understood to be under the same _**license**_ that covers the project. Feel free to [contact us](mailto:cmichel@sandia.gov) if that's a concern.
+
+**Repo-Specific URLs**:
+Replace `<repo-name>` with the repo's name.
+
+- _**issues page**_: `github.com/JuliaOceanWaves/<repo-name>/issues`
+- _**pull request**_: `github.com/JuliaOceanWaves/<repo-name>/pulls`
+- _**good first issue**_: `github.com/JuliaOceanWaves/<repo-name>/contribute`
+- _**security policy**_: `github.com/JuliaOceanWaves/<repo-name>/security`
+- _**license**_: `github.com/JuliaOceanWaves/<repo-name>/LICENSE.md`
