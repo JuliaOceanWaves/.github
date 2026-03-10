@@ -16,7 +16,7 @@ There are many ways to contribute to the code and community:
 
 ## Community Standards 🌱 💜
 
-[![Contributor Covenant](https://img.shields.io/badge/Contributor_Covenant-3.0-yellowgreen)](CODE_OF_CONDUCT.md)
+[![Contributor Covenant](https://img.shields.io/badge/Contributor_Covenant-3.0-4baaaa)](CODE_OF_CONDUCT.md)
 
 Please adhere to the [Contributor Covenant Code of Conduct](CODE_OF_CONDUCT.md) and [report any abuse](mailto:cmichel@sandia.gov). 
 Remember that open source development is a social process and we are in this together. 
