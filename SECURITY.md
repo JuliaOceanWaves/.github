@@ -13,11 +13,6 @@ If the repo has a long-term support (LTS) version, it will also receive security
 
 ## Reporting a Vulnerability
 You can report security vulnerabilites through several mechanisms: 
-  - Publicly via an *issue*. 
-  - Anonymously through a *private vulnerability report*. 
+  - Publicly via an [issue](/issues). 
+  - Anonymously through a [private vulnerability report](/security/advisories). 
   - Directly to us [via email](mailto:cmichel@sandia.gov).
-
-## Repo-scpecific Links
-This document describes the security policy for all `JuliaOceanWaves` repos. The mentioned resources for a specific repo can be accessed as (replace `<repo>` with the repo's name): 
-  - **Issues page**: `https://github.com/JuliaOceanWaves/<repo>/issues`
-  - **Private vulnerability reports**: `https://github.com/JuliaOceanWaves/<repo>/security/advisories`
