@@ -1,7 +1,7 @@
 The MIT License (MIT)
 =====================
 
-Copyright © [YYYY] National Technology & Engineering Solutions of Sandia, LLC (NTESS).
+Copyright © 2022 National Technology & Engineering Solutions of Sandia, LLC (NTESS).
 
 Permission is hereby granted, free of charge, to any person
 obtaining a copy of this software and associated documentation
